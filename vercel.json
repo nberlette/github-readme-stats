@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "",
-      "destination": ""
+      "source": "/",
+      "destination": "https://github.com/nberlette/github-readme"
     }
   ]
 }
